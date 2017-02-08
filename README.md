@@ -8,4 +8,9 @@ Http server!
 
 ##Purpose
 
+<<<<<<< HEAD
 ##How to contribute to this project
+=======
+##How to contribute
+Please fork this repository!
+>>>>>>> simple-changes
